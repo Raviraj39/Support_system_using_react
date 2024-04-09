@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "username": "raviraj",
+      "password": "1234",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "ranjit",
+      "password": "4321",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "suyash",
+      "password": "2345",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "support01",
+      "password": "1234",
+      "role": "support",
+      "id": 4
+    },
+    {
+      "username": "support02",
+      "password": "1234",
+      "role": "support",
+      "id": 5
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "email": "raviraj",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "email": "raviraj",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "rav",
+      "date": "2024-04-04",
+      "email": "rav",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "name": "user1",
+      "date": "2024-04-03",
+      "email": "user1",
+      "password": "54321",
+      "id": 10
+    },
+    {
+      "email": "user1",
+      "password": "54321",
+      "id": 11
+    },
+    {
+      "username": "raviraj",
+      "password": "1234",
+      "id": 12
+    },
+    {
+      "username": "raviraj",
+      "password": "1234",
+      "id": 13
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
